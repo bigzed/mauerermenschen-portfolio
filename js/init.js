@@ -54,7 +54,7 @@ var parallelism = (function($) { var _ = {
 						maxRows: 3,
 						
 					// Minimum number of rows.
-						minRows: 1,
+						minRows: 3,
 						
 					// Padding (in px) between items (0 = no padding).
 						padding: 5,
